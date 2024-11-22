@@ -1,6 +1,6 @@
 package Day1;
 
-public class Array_LeftRotation {
+public class Array_LeftRotation_AntiClockwise {
     public static void main(String[] args) {
         int[] a = new int[5];
         a[0]=45;
