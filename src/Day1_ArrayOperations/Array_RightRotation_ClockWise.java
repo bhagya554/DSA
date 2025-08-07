@@ -1,4 +1,4 @@
-package Day1;
+package Day1_ArrayOperations;
 
 public class Array_RightRotation_ClockWise {
     public static void main(String[] args) {

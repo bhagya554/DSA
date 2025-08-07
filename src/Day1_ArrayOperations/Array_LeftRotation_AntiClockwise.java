@@ -1,4 +1,4 @@
-package Day1;
+package Day1_ArrayOperations;
 
 public class Array_LeftRotation_AntiClockwise {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Day1;
+package Day1_ArrayOperations;
 
 public class Array_ValuesSquare {
     public static void main(String[] args) {
